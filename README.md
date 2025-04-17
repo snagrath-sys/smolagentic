@@ -1,6 +1,6 @@
 # SmolAgents Playground: Exploring CodeAgents, Actions, and Multi-Agent Systems
 
-This project is a playground to explore the capabilities of [`smolAgents`](https://github.com/smol-ai/smol-developer), a lightweight framework for building intelligent agents that reason and act using code.
+This project is a playground to explore the capabilities of [`smolAgents`]([https://github.com/smol-ai/smol-developer](https://github.com/huggingface/smolagents)), a lightweight framework for building intelligent agents that reason and act using code.
 
 We deep-dive into:
 
